@@ -41,4 +41,3 @@ The system uses a modular class-based design where the Library manages books, me
 Compile and run the `LibraryManagement.java` file in any Java IDE or terminal.
 
 Developed to practice Core Java OOP principles and real-world object relationships.
-```
